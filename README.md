@@ -40,7 +40,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/recipe-website.git
+   git clone https://github.com/Abhishek200-1/Simple-recipe-website.git
    ```
 2. Open the project folder:
    ```bash
@@ -65,7 +65,7 @@
 
 ---
 
-**Project Name**: Recipe Website  
+**Project Name**: Simple Recipe Website  
 **Description**:  
 This Recipe Website is a responsive and visually appealing project designed using CSS. It features an organized layout for recipes, complete with engaging hover effects, scalable typography, and a vibrant color scheme. The website adapts seamlessly to all screen sizes, making it user-friendly on both desktop and mobile devices.  
 
@@ -73,4 +73,3 @@ This project is a testament to the power of CSS in crafting real-world applicati
 
 ---
 
-Feel free to adjust this README as needed! 🚀
